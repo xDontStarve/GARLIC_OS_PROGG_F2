@@ -1,0 +1,1 @@
+<Project name="mcm"><MagicFolder excludeFiles="*.pnproj;*.pnps;*.bak;*.tmp" excludeFolders="CVS;.svn;.hg;.git" filter="*" name="MCM" path=""><File path="Makefile"></File><File path="mcm.c"></File><File path="MCM.elf"></File><File path="MCM.o"></File><File path="MCM.s"></File></MagicFolder></Project>
